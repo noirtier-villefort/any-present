@@ -5,7 +5,7 @@ App to Delight Your Loved Ones
 
 
 
-## Configuration
+## Configuration PC 
 ### Bash
 
 ```bash
@@ -16,5 +16,9 @@ App to Delight Your Loved Ones
 ```bash
   code here later
 ```
+
+## Configuration WEB 
+### Coming soon
+
 
     
