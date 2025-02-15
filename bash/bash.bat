@@ -1,6 +1,6 @@
 @echo off
-color 0C # color here
-chcp 65001 # for cyryllic text
+color 0C 
+chcp 65001
 echo    *****     *****
 echo   *******   *******
 echo  ********* *********
